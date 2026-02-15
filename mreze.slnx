@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mreze/mreze.vcxproj" Id="1884708e-3a48-465d-95d1-046e550d9a97" />
+</Solution>
